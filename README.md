@@ -2,6 +2,8 @@
 
 This timer app is built for the web and is served using NodeJS.
 
+Before you use the app make sure you install the required modules using the command `npm install`.
+
 How To Use:
 
   1. Select the duration of the timer (Minutes and Seconds)
