@@ -10,4 +10,4 @@ How To Use:
   2. Click __"Start"__ to activate the timer
   3. Enjoy the alarm sound and the end
   
-__*Note*:__ You can pause the timer from going down when it's activated by clicking the __"Pause"__ text.
+__*Note*:__ You can pause the timer from going down when it's activated by clicking on __"Pause"__.
